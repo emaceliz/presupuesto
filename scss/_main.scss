@@ -1,0 +1,29 @@
+.main{
+    width: 60%;
+    margin: auto;
+       .main__titulo{
+           text-align: center;
+           position: relative;
+           bottom: 100px;
+           display: flex;
+           flex-direction: column;
+           flex-wrap: nowrap;
+           .main__presupuesto{
+               font-size: 5vw;
+               font-weight: 900;
+               color: rgba(48, 48, 48, 0.222);
+               position: relative;
+               top: 120px;
+              
+
+           }
+    }
+    .almost{
+        font-weight: 600;
+    }
+    .bold{
+        font-weight: 900;
+        text-align: end;
+    }
+    }
+    

@@ -1,0 +1,16 @@
+.footer{
+    
+    padding: 4rem 0;
+    width: 30%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    .icon{
+        z-index: 9999;
+        width: 30px;
+        transition: all 1s ease-in;
+        &:hover{
+            transform: rotate(1turn);
+        }
+    }
+}

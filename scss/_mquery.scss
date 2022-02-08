@@ -1,0 +1,22 @@
+@media only screen and (max-width: 600px) {
+    body{
+        background-position: center;
+    .main{
+        width: 100%;
+        margin: auto;
+        .main__titulo{
+            position: relative;
+            top: 3vh;
+            .main__presupuesto{
+                display: none;
+               
+            }
+        }
+        
+        li{
+            position: relative;
+            right: 20px;
+        }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 1.1rem;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url(../img/fondo.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    letter-spacing: 0.5px;
+    li{
+        list-style-type: none;
+        margin-bottom: 30px;
+    }
+    
+}
